@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RaRetroCollect/todo-list/static/css/main.a8950f64.chunk.css",
+    "main.js": "/RaRetroCollect/todo-list/static/js/main.a91a015d.chunk.js",
+    "main.js.map": "/RaRetroCollect/todo-list/static/js/main.a91a015d.chunk.js.map",
+    "runtime-main.js": "/RaRetroCollect/todo-list/static/js/runtime-main.6c6f739b.js",
+    "runtime-main.js.map": "/RaRetroCollect/todo-list/static/js/runtime-main.6c6f739b.js.map",
+    "static/js/2.faab6034.chunk.js": "/RaRetroCollect/todo-list/static/js/2.faab6034.chunk.js",
+    "static/js/2.faab6034.chunk.js.map": "/RaRetroCollect/todo-list/static/js/2.faab6034.chunk.js.map",
+    "index.html": "/RaRetroCollect/todo-list/index.html",
+    "precache-manifest.ddce06d06527bfb816c8e50c81778303.js": "/RaRetroCollect/todo-list/precache-manifest.ddce06d06527bfb816c8e50c81778303.js",
+    "service-worker.js": "/RaRetroCollect/todo-list/service-worker.js",
+    "static/css/main.a8950f64.chunk.css.map": "/RaRetroCollect/todo-list/static/css/main.a8950f64.chunk.css.map",
+    "static/js/2.faab6034.chunk.js.LICENSE.txt": "/RaRetroCollect/todo-list/static/js/2.faab6034.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c6f739b.js",
+    "static/js/2.faab6034.chunk.js",
+    "static/css/main.a8950f64.chunk.css",
+    "static/js/main.a91a015d.chunk.js"
+  ]
+}
